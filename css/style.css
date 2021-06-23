@@ -530,6 +530,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 }
 
+.description a:hover {
+  color: #50d8af;
+}
+
 /* About Section
 --------------------------------*/
 
@@ -633,7 +637,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 22px;
 }
 
-#services .box h4 a {
+#services .box h4  {
   color: #ed4245;
 }
 
@@ -879,7 +883,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member .details {
   background: #50d8af;
-  color: #fff;
+  color: #081e5b;
   padding: 15px;
   border-radius: 0 0 3px 3px;
 }
@@ -901,7 +905,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a {
-  color: #fff;
+  color: white;
 }
 
 #team .member .social i {
