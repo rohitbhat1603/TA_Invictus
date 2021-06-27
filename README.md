@@ -1,4 +1,4 @@
-# Mathematicia
+# :white_check_mark: Mathematicia
 
 # TA – INVICTUS
 Team members: <br/> 
