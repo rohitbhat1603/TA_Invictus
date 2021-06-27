@@ -1,7 +1,7 @@
 # Mathematicia
 
 # TA – INVICTUS
-Team members:
+Team members: <br/>
 Rohit Bhat <br/>
 Harsh Niture <br/>
 Chinmay Chougule<br/>
