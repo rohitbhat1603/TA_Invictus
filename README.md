@@ -1,4 +1,4 @@
-# :beginner: ***Mathematicia*** 
+# :beginner: <span style="color:blue">***Mathematicia***</span>. 
 
 ## TA – INVICTUS ##
 Team members: <br/> 
