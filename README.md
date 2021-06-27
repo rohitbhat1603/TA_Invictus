@@ -2,10 +2,7 @@
 
 # TA – INVICTUS
 Team members:
-Rohit Bhat
-Harsh Niture
-Chinmay Chougule
-Meenal Garg
+Rohit Bhat  Harsh Niture  Chinmay Chougule  Meenal Garg
 
 # Theme: Education 
 
