@@ -3,6 +3,11 @@
 # TA – INVICTUS
 Team members: <br/> 
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 Rohit Bhat <br/>
 Harsh Niture <br/>
 Chinmay Chougule<br/>
