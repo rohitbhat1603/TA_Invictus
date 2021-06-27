@@ -3,15 +3,10 @@
 # TA – INVICTUS
 Team members: <br/> 
 
- * Bullet list
-      * Nested bullet
-      * Sub-nested bullet etc
- * Bullet list item 2
-
-Rohit Bhat <br/>
-Harsh Niture <br/>
-Chinmay Chougule<br/>
-Meenal Garg
+ * Rohit Bhat
+ * Harsh Niture
+ * Chinmay Chougule
+ * Meenal Garg
 
 # Theme: Education 
 
