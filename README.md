@@ -25,4 +25,4 @@ Also due to this ongoing COVID-19 pandemic, students are not able to go to libra
 
 ## :maple_leaf: [Click here](https://www.youtube.com/watch?v=k19DwQau7DE) to view Video
 
-## :maple_leaf: [Click here](https://rohitbhat1603.github.io/Mathematicia/) to view our 
+## :maple_leaf: [Click here](https://rohitbhat1603.github.io/Mathematicia/) to view our project
